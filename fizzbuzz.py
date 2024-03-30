@@ -6,7 +6,8 @@ for i in range(1, 101):
 	elif i % 3 == 0:
 		print("Fizz")
 	else: 
-		print(I)
-
+		print(i)
 		
+
+
 
